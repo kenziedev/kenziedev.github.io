@@ -95,7 +95,7 @@ self.addEventListener('fetch', (event) => {
           cache.put(event.request, responseToCache);
         });
         return response;
-      });
+      }).catch(() => caches.match(event.request));
     })
   );
 });
