@@ -1,12 +1,12 @@
 {
   "sourceRepository": "https://github.com/kenziedev/web_srpg",
-  "sourceCommit": "cddc89608068308421ab6052f394bbe84312655b",
-  "rulesVersion": "0.7",
+  "sourceCommit": "7e3d1a606dfd75ab46283e6c411617443da803cd",
+  "rulesVersion": "0.8",
   "basePath": "/srpg/",
-  "builtAt": "2026-09-11T11:08:24.326696+00:00",
+  "builtAt": "2026-09-13T14:10:22.460729+00:00",
   "assets": {
-    "assets/index-B-uXYl4Z.js": "69566fc8d699240f056a083eac1005a6e50c388ffc5c41d42afffc0a394d61e1",
-    "assets/index-BZg1h6Zp.css": "127bc8c546e555932e28481a2977a232f1deed411067e8c55d7f96b2ac5d1859",
-    "index.html": "5f77f21d88c442cb1733de28adcf8d36fc2cf1fd5505b51733254ca2b4a1223c"
+    "assets/index-DDNy7D-h.js": "6945e7650080aa3d673d2dc1d51388b226348c57d7d355c7dc0e21cb76c202f5",
+    "assets/index-DLQ17z8Z.css": "1c4d4184b92b0a1b5195c8c0e28249f15ab7068ff27a3774ef4adb7bfe6950cb",
+    "index.html": "1bb38ebecc79e3a3413772ad16bcb05ef78c8d8f43c89849f68313a5d8f50ef7"
   }
 }
